@@ -2958,6 +2958,8 @@ game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Cringe Hub",
 
 game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Cringe Hub", Text = "If gui doesn't pop up, your executor is trahs! :P"})
 
+game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Cringe Hub", Text = "Don't you try claiming this as ur script u pussy"})
+
 
 
 
